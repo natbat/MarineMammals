@@ -1,0 +1,39 @@
+name: Scrape the Marine Mammal website for cute sea monsters
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      # Doing this to avoid over downloadin python dependancies, to save the
+      # python software foundation money
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Scrape website
+      run: python scrape.py > animals.json
+    - name: Commit and push if files changed
+      run: |-
+        git diff
+        git config --global user.email "scraper-bot@example.com"
+        git config --global user.name "scraper-bot"
+        git diff --quiet || (git add animals.json && git commit -m "updating animals")
+        git push
+  
