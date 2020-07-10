@@ -1,0 +1,690 @@
+[
+    {
+        "name": "Loki",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "Coast Guard Pier (Monterey) - Monterey, Monterey",
+        "admitted": "2020-07-07",
+        "admit_weight": 35.5,
+        "age_class": "Yearling",
+        "sex": "Male",
+        "diagnosis": [
+            "Trauma",
+            "HI"
+        ],
+        "status": "current patient",
+        "status_date": "2020-07-07",
+        "status_location": ""
+    },
+    {
+        "name": "Amonita",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Pescadero State Beach - North - Pescadero, San Mateo",
+        "admitted": "2020-07-03",
+        "admit_weight": 13.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "abscess",
+            "trauma",
+            "unknown",
+            "dermatopathy"
+        ],
+        "status": "current patient",
+        "status_date": "2020-07-03",
+        "status_location": ""
+    },
+    {
+        "name": "Ehlow",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "South Salmon Creek Beach (Jack Rabbit Trail) - Bodega Bay, Sonoma",
+        "admitted": "2020-07-01",
+        "admit_weight": 10.6,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "trauma",
+            "unknown",
+            "abscess"
+        ],
+        "status": "current patient",
+        "status_date": "2020-07-01",
+        "status_location": ""
+    },
+    {
+        "name": "Parsnip",
+        "restrand": true,
+        "species": "Northern Elephant Seal",
+        "stranding_location": "Mitchells Cove - Santa Cruz, Santa Cruz",
+        "admitted": "2020-06-22",
+        "admit_weight": 45.0,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "otostrongyliasis"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-22",
+        "status_location": ""
+    },
+    {
+        "name": "Lentil",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Dog Beach (Olde Port Beach) - Avila Beach, San Luis Obispo",
+        "admitted": "2020-06-20",
+        "admit_weight": 15.5,
+        "age_class": "Juvenile",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "trauma",
+            "HI",
+            "abnormal behavior"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-20",
+        "status_location": ""
+    },
+    {
+        "name": "Vlada",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "Capitola Wharf (Hooper Beach) - Capitola, Santa Cruz",
+        "admitted": "2020-06-19",
+        "admit_weight": 14.5,
+        "age_class": "Yearling",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-19",
+        "status_location": ""
+    },
+    {
+        "name": "Okra",
+        "restrand": false,
+        "species": "Northern Elephant Seal",
+        "stranding_location": "Linda Mar Beach - Pacifica, San Mateo",
+        "admitted": "2020-06-17",
+        "admit_weight": 51.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "otostrongyliasis",
+            "malnutrition",
+            "dermatopathy"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-17",
+        "status_location": ""
+    },
+    {
+        "name": "Dunie",
+        "restrand": true,
+        "species": "California Sea Lion",
+        "stranding_location": "China Basin - San Francisco, San Francisco",
+        "admitted": "2020-06-17",
+        "admit_weight": 17.5,
+        "age_class": "Yearling",
+        "sex": "Male",
+        "diagnosis": [
+            "pneumonia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-17",
+        "status_location": ""
+    },
+    {
+        "name": "Focsle",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Pillar Point Harbor (Romeo Packing Pier) - Princeton-by-the-Sea, San Mateo",
+        "admitted": "2020-06-14",
+        "admit_weight": 11.26,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "dermatopathy",
+            "trauma",
+            "unknown"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-14",
+        "status_location": ""
+    },
+    {
+        "name": "Seadog",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "17 Mile Drive (China Rock Vista Point) - Pebble Beach, Monterey",
+        "admitted": "2020-06-12",
+        "admit_weight": 39.5,
+        "age_class": "Juvenile",
+        "sex": "Male",
+        "diagnosis": [
+            "domoic acid intoxication",
+            "malnutrition",
+            "pneumonia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-12",
+        "status_location": ""
+    },
+    {
+        "name": "Imagination",
+        "restrand": true,
+        "species": "California Sea Lion",
+        "stranding_location": "Clipper Yacht Club - Basin 3 - Sausalito, Marin",
+        "admitted": "2020-06-12",
+        "admit_weight": 24.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "hepatopathy",
+            "abnormal behavior"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-12",
+        "status_location": ""
+    },
+    {
+        "name": "Ferndale",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Centerville Beach - Ferndale, Humboldt",
+        "admitted": "2020-06-11",
+        "admit_weight": 8.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-11",
+        "status_location": ""
+    },
+    {
+        "name": "Dansam",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Samoa Beach - Arcata, Humboldt",
+        "admitted": "2020-06-11",
+        "admit_weight": 11.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "trauma",
+            "HI"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-11",
+        "status_location": ""
+    },
+    {
+        "name": "Neshema",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Battery Point Lighthouse - Crescent City, Humboldt",
+        "admitted": "2020-06-11",
+        "admit_weight": 9.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "trauma",
+            "HI"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-11",
+        "status_location": ""
+    },
+    {
+        "name": "Cleopatra",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "Sand Dollar Beach (North End) - Big Sur, Monterey",
+        "admitted": "2020-06-06",
+        "admit_weight": 16.0,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "abscess",
+            "trauma",
+            "unknown"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-06",
+        "status_location": ""
+    },
+    {
+        "name": "Zurich",
+        "restrand": false,
+        "species": "Northern Elephant Seal",
+        "stranding_location": "Pillar Point Harbor (Romeo Packing Pier) - Princeton-by-the-Sea, San Mateo",
+        "admitted": "2020-06-04",
+        "admit_weight": 35.5,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "otostrongyliasis"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-04",
+        "status_location": ""
+    },
+    {
+        "name": "Leek",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "Santa Rosalia Beach (Monterey Harbor) - Monterey, Monterey",
+        "admitted": "2020-06-01",
+        "admit_weight": 22.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "abscess",
+            "pneumonia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-06-01",
+        "status_location": ""
+    },
+    {
+        "name": "Chalokian",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "San Gregorio State Beach - San Gregorio, San Mateo",
+        "admitted": "2020-05-27",
+        "admit_weight": 6.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-27",
+        "status_location": ""
+    },
+    {
+        "name": "Balke",
+        "restrand": false,
+        "species": "Northern Elephant Seal",
+        "stranding_location": "Santa Cruz Point and Lighthouse - Santa Cruz, Santa Cruz",
+        "admitted": "2020-05-25",
+        "admit_weight": 51.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-25",
+        "status_location": ""
+    },
+    {
+        "name": "Pippin",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Laguna Point (MacKerricher State Park) - Fort Bragg, Mendocino",
+        "admitted": "2020-05-23",
+        "admit_weight": 6.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "anemia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-23",
+        "status_location": ""
+    },
+    {
+        "name": "Sinead",
+        "restrand": false,
+        "species": "Northern Fur Seal",
+        "stranding_location": "South Jetty - Loleta, Humboldt",
+        "admitted": "2020-05-21",
+        "admit_weight": 7.0,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "dermatopathy",
+            "anemia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-21",
+        "status_location": ""
+    },
+    {
+        "name": "Bozho",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Clam Beach - McKinleyville, Humboldt",
+        "admitted": "2020-05-21",
+        "admit_weight": 6.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "anemia"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-21",
+        "status_location": ""
+    },
+    {
+        "name": "Chantee",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Red, White, and Blue Beach (South) - Santa Cruz, Santa Cruz",
+        "admitted": "2020-05-19",
+        "admit_weight": 7.92,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-19",
+        "status_location": ""
+    },
+    {
+        "name": "Mirando",
+        "restrand": false,
+        "species": "California Sea Lion",
+        "stranding_location": "Crissy Field (Parking Lot) - San Francisco, San Francisco",
+        "admitted": "2020-05-12",
+        "admit_weight": 11.0,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "pneumonia",
+            "anemia",
+            "abscess",
+            "rhinitis"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-12",
+        "status_location": ""
+    },
+    {
+        "name": "Alpastor",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Dog Beach (Olde Port Beach) - Avila Beach, San Luis Obispo",
+        "admitted": "2020-05-05",
+        "admit_weight": 8.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-05",
+        "status_location": ""
+    },
+    {
+        "name": "Pluver",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Pajaro Dunes (Pajaro River Beach) - Watsonville, Santa Cruz",
+        "admitted": "2020-05-04",
+        "admit_weight": 7.18,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation",
+            "herpesvirus",
+            "ocular abnormality"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-04",
+        "status_location": ""
+    },
+    {
+        "name": "Vulpec",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Sharp Park Beach - North - Pacifica, San Mateo",
+        "admitted": "2020-05-04",
+        "admit_weight": 6.0,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "abnormal behavior"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-04",
+        "status_location": ""
+    },
+    {
+        "name": "Leia",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Irish Beach - Upper Beach Road - Manchester, Mendocino",
+        "admitted": "2020-05-04",
+        "admit_weight": 7.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "anemia",
+            "abnormal behavior"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-04",
+        "status_location": ""
+    },
+    {
+        "name": "Manresa",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Manresa State Beach (South End) - Watsonville, Santa Cruz",
+        "admitted": "2020-05-01",
+        "admit_weight": 8.28,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation",
+            "ocular abnormality"
+        ],
+        "status": "current patient",
+        "status_date": "2020-05-01",
+        "status_location": ""
+    },
+    {
+        "name": "Mulberry",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Pleasure Point Beach (36-38th Avenues) - Live Oak, Santa Cruz",
+        "admitted": "2020-04-30",
+        "admit_weight": 8.36,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-30",
+        "status_location": ""
+    },
+    {
+        "name": "Arilela",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Point Pinos (Asilomar Coastal Trail - North) - Pacific Grove, Monterey",
+        "admitted": "2020-04-30",
+        "admit_weight": 7.0,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "abnormal behavior"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-30",
+        "status_location": ""
+    },
+    {
+        "name": "Strudel",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Ocean View Blvd and Marine St - Pacific Grove, Monterey",
+        "admitted": "2020-04-27",
+        "admit_weight": 7.8,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation",
+            "ocular abnormality"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-27",
+        "status_location": ""
+    },
+    {
+        "name": "Laguna",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Lake Cleone Beach (MacKerricher State Park) - Fort Bragg, Mendocino",
+        "admitted": "2020-04-26",
+        "admit_weight": 9.58,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "maternal separation",
+            "herpesvirus"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-26",
+        "status_location": ""
+    },
+    {
+        "name": "Shemesh",
+        "restrand": false,
+        "species": "Guadalupe Fur Seal",
+        "stranding_location": "Morro Strand State Beach - Morro Bay, San Luis Obispo",
+        "admitted": "2020-04-23",
+        "admit_weight": 6.5,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "malnutrition"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-23",
+        "status_location": ""
+    },
+    {
+        "name": "Laird",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Fitzgerald Marine Reserve - Seal Cove - Moss Beach, San Mateo",
+        "admitted": "2020-04-18",
+        "admit_weight": 8.6,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-18",
+        "status_location": ""
+    },
+    {
+        "name": "Ryjules",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Fitzgerald Marine Reserve - Seal Cove - Moss Beach, San Mateo",
+        "admitted": "2020-04-13",
+        "admit_weight": 8.02,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "maternal separation"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-13",
+        "status_location": ""
+    },
+    {
+        "name": "Harvey",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Fort Funston - San Francisco, San Francisco",
+        "admitted": "2020-04-08",
+        "admit_weight": 7.58,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "cardiac murmur",
+            "trauma",
+            "unknown",
+            "maternal separation",
+            "herpesvirus",
+            "hepatopathy"
+        ],
+        "status": "current patient",
+        "status_date": "2020-04-08",
+        "status_location": ""
+    },
+    {
+        "name": "Pintlo",
+        "restrand": false,
+        "species": "Harbor Seal",
+        "stranding_location": "Point Lobos State Reserve (Gibson Beach) - Carmel-by-the-Sea, Monterey",
+        "admitted": "2020-03-09",
+        "admit_weight": 7.9,
+        "age_class": "Pup",
+        "sex": "Male",
+        "diagnosis": [
+            "prematurity",
+            "malnutrition",
+            "herpesvirus",
+            "maternal separation"
+        ],
+        "status": "current patient",
+        "status_date": "2020-03-09",
+        "status_location": ""
+    },
+    {
+        "name": "Layup",
+        "restrand": false,
+        "species": "Northern Elephant Seal",
+        "stranding_location": "Oceano Dunes Entrance Station (Grand Ave) - Oceano, San Luis Obispo",
+        "admitted": "2020-03-06",
+        "admit_weight": 25.5,
+        "age_class": "Pup",
+        "sex": "Female",
+        "diagnosis": [
+            "malnutrition",
+            "otostrongyliasis"
+        ],
+        "status": "current patient",
+        "status_date": "2020-03-06",
+        "status_location": ""
+    }
+]
